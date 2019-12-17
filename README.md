@@ -1,5 +1,5 @@
 # CPSC_334_Final
-##My CPSC 334 Final Project Code Repo
+## My CPSC 334 Final Project Code Repo
 
 Please find 4 folders, each with its corresponding code within this repo.
 
@@ -10,4 +10,13 @@ Please find 4 folders, each with its corresponding code within this repo.
 *Speaker* contains arduino code for testing the speaker in the final product.
 
 *WiFi_Enabled* contains the final arduino code run on the ESP32 for the showcase and a manual override Python script that would grant me control of the lamp over WiFi in the event of failure elsewhere. (Fortunately, this went unused!)
+
+This project required the following hardware:
+
+- 1 x ESP32 (Pico Model)
+- 1 x Battery Pack
+- 1 x RGB Cathode LED (Extra Bright)
+- 10 x RGB Cathode LED (Regular)
+- 10 x 220Ω Resistor
+
 
