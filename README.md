@@ -8,6 +8,7 @@ I also created an app to be run on any Processing-capable device to automaticall
 
 The motivations and results of this project are laid out in more detail in my public blog post found at the following link:
 
+http://201903cpsc33401.canvaspress.yale.edu/2019/12/17/smart-lamp/ 
 
 
 ## My CPSC 334 Final Project Code Repo
