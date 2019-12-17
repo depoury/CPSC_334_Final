@@ -35,8 +35,14 @@ This project requires the following hardware:
 
 ## Dependencies for the Code:
 
-### Python
+### Python 3
+- import time
+- import socket
+
 
 ### Processing
+- import hypermedia.net.*
 
 ### C#
+- #include <WiFi.h>
+- #include <WiFiUdp.h>
