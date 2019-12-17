@@ -33,3 +33,10 @@ This project requires the following hardware:
 - 1 x 8Ω 1W Speaker
 
 
+## Dependencies for the Code:
+
+### Python
+
+### Processing
+
+### C#
